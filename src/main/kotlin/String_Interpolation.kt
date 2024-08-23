@@ -1,3 +1,7 @@
+/*
+Created by Ritabrata, 23/07/2024
+ */
+
 fun main(){
     // var keyword is used when the data inside the variable is mutable.
     // val is used for immutable data storing. The value stored inside a val variable, cannot be changed
