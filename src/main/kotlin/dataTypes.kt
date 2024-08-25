@@ -2,6 +2,12 @@
 Created by Ritabrata, 23/07/2024
  */
 fun main() {
+    // Declaring a variable without initialization is allowed in Kotlin
+    val variable : Int
+    // Initializing the variable
+    variable = 20
+    // Printing the value of the variable
+    println(variable)
     val number1: Int = 34
     val number2: Byte = 12
     val number3: Short = 34
