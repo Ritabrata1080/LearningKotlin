@@ -13,7 +13,7 @@ fun main() {
     val readOnlyFruit = setOf("Apple", "Cherry", "Banana", "Guava", "Cherry")
     println("ReadOnly set of fruits : $readOnlyFruit")
 
-    val fruits : MutableSet<String> = mutableSetOf("Apple", "Banana", "Mango", "Jackfruit", "Mango")
+    val fruits: MutableSet<String> = mutableSetOf("Apple", "Banana", "Mango", "Jackfruit", "Mango")
     println("Mutable set of fruits : $fruits")
 
     /**
