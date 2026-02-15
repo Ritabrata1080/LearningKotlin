@@ -1,3 +1,5 @@
+import kotlinx.coroutines.GlobalScope
+
 /**
  * @author Ritabrata
  *
